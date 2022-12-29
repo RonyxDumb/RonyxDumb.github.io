@@ -6,7 +6,7 @@ Ciao! Semplicemente Ronyx qui!
 *[FNF-ChungasMode](https://github.com/RonyxDumb/FNF-ChungasMode)*
 Una MOD di Friday Night Funkin' basata su alcuni trend divertenti di Tik Tok.
 
-*[Indie-Cross-Public](https://github.com/RonyxDumb/Indie-Cross-Public)*
+*[Indie-Cross-Fix](https://github.com/RonyxDumb/Indie-Cross-Fix)*
 Fork di [Indie-Cros-Public](https://github.com/brightfyregit/Indie-Cross-Public) dove risolvevo alcuni problemi durante la compilazione.
 
 ### Funkin-Android (non ancora rilasciato)
