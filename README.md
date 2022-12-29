@@ -1,6 +1,6 @@
 # RonyxDumb.github.io
 Il primo Website "programmato dal sottoscritto" grazie alle funzioni di Github.
-Ciao! Semplicemente Ronyx qui! 
+Ciao! Semplicemente Ronyx qui! Puoi anche chiamarmi, Pipino.
 
 # I miei progetti (o in cui ho lavorato)
 *[FNF-ChungasMode](https://github.com/RonyxDumb/FNF-ChungasMode)*
