@@ -9,5 +9,5 @@ Una MOD di Friday Night Funkin' basata su alcuni trend divertenti di Tik Tok.
 *[Indie-Cross-Fix](https://github.com/RonyxDumb/Indie-Cross-Fix)*
 Fork di [Indie-Cros-Public](https://github.com/brightfyregit/Indie-Cross-Public) dove risolvevo alcuni problemi durante la compilazione.
 
-### Funkin-Android (non ancora rilasciato)
-Sto portando [Friday Night Funkin'](https://github.com/FunkinCrew/Funkin) (con alcune modifiche rispetto al gioco stesso) per dispositivi Android.
+*[FNF-Sunday-Android](https://github.com/RonyxDumb/Indie-Cross-Fix)*
+Port di [FNF-Sunday](https://github.com/bbpanzu/FNF-Sunday) per dispositivi Android. Risolto il bug di SKIP_STEP_LIMIT in Main.hx
