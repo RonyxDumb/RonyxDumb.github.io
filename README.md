@@ -1,7 +1,7 @@
 # RonyxDumb.github.io
 Il primo Website "programmato dal sottoscritto" grazie alle funzioni di Github.
 Ciao! Semplicemente Ronyx qui! Puoi anche chiamarmi, Kekko.
-Sono un programmatore che sta imparando a programmare con Haxe | Haxeflixel, specialmente con FNF 
+Sono un programmatore che sta imparando a programmare con Haxe | Haxeflixel, specialmente con FNF. ![FNF-ICO](img/icon64.png)
 
 # I miei progetti (o in cui ho lavorato)
 *[FNF-ChungasMode](https://github.com/RonyxDumb/FNF-ChungasMode)*
