@@ -3,6 +3,9 @@ Il primo Website "programmato dal sottoscritto" grazie alle funzioni di Github.
 Ciao! Semplicemente Ronyx qui! Puoi anche chiamarmi, Kekko.
 Sono un programmatore che sta imparando a programmare con Haxe | Haxeflixel, specialmente con FNF. ![FNF-ICO](img/icon64.png)
 
+# Il mio README [LOL](https://github.com/RonyxDumb/RonyxDumb)
+Semplicemente Repository in cui c'è il mio README e alcune funzion ad esempio la mia attività su Github, linguaggi più usati
+
 # I miei progetti (o in cui ho lavorato)
 *[FNF-ChungasMode](https://github.com/RonyxDumb/FNF-ChungasMode)*
 Una MOD di Friday Night Funkin' basata su alcuni trend divertenti di Tik Tok.
@@ -17,4 +20,4 @@ Port di [FNF-Sunday](https://github.com/bbpanzu/FNF-Sunday) per dispositivi Andr
 Fork di [FNF-Android-Porting](https://github.com/MAJigsaw77/FNF-Android-Porting) dove viene scritta una guida per poter compilare e correre FNF per dispositivi Android.
 
 *[Indie-Cross-Android](https://github.com/RonyxDumb/Indie-Cross-Android)*
-Port di [Indie-Cross-Public](https://github.com/brightfyregit/Indie-Cross-Public) per dispositivi Android. Non ancora pronto, man mano risolvendo Bug.
+Port di [Indie-Cross-Public](https://github.com/brightfyregit/Indie-Cross-Public) per dispositivi Android.
