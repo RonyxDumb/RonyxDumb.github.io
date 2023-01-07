@@ -21,3 +21,6 @@ Fork di [FNF-Android-Porting](https://github.com/MAJigsaw77/FNF-Android-Porting)
 
 *[Indie-Cross-Android](https://github.com/RonyxDumb/Indie-Cross-Android)*
 Port di [Indie-Cross-Public](https://github.com/brightfyregit/Indie-Cross-Public) per dispositivi Android.
+
+*[GJ-FNF-Integration](https://github.com/RonyxDumb/GJ-FNF-Integration)*
+Fork di FNF-GameJolt-Integration dove sto risolvendo alcuni | ho risolto dei BUG.
